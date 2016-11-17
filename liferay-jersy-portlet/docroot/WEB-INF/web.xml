@@ -16,7 +16,6 @@
  <load-on-startup>1</load-on-startup>
 </servlet>
 
-
 <servlet-mapping>
  <servlet-name>jersey-rest-serlvet</servlet-name>
  <url-pattern>/rest/*</url-pattern>
